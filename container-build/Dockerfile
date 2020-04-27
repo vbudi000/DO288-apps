@@ -10,4 +10,3 @@ LABEL io.k8s.description="A basic Apache HTTP Server child image, uses ONBUILD" 
       io.openshift.expose-services="8080:http" \
       io.openshift.tags="apache, httpd"
 USER 1001
-©
